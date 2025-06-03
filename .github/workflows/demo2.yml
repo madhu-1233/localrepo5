@@ -1,4 +1,4 @@
-Name : My first Github Action
+name : My first Github Action
 on:
   push:
     branches: [ "main" ]
